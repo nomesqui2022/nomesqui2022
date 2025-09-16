@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋 I,m John
 
-<!--
-**nomesqui2022/nomesqui2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile, I'm a telecomunications enginer with more than 10 years of experience in IT industry and more than 7 years in cloud technologies.
 
-Here are some ideas to get you started:
+## contacto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-john-alexander--0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-alexander-nomesqui-aguirre-19ab09179/)
+
+# tools
+
+[![Linux](https://img.shields.io/badge/Linux-E74C3C?style=for-the-badge&logo=linux&logoColor=white)](https://es.wikipedia.org/wiki/Linux)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+
+
+
+
+
