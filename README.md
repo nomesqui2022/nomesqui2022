@@ -14,6 +14,11 @@ Welcome to my profile, I'm a telecomunications enginer with more than 10 years o
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
+###  : zap: Actividad reciente 
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 
 
 
