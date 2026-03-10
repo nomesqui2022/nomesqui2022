@@ -16,11 +16,13 @@ Welcome to my profile, I'm a telecomunications enginer with more than 10 years o
 
 ###  : zap: Actividad reciente 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [first version de prueba](https://github.com/nomesqui2022/terraform-azurerm-azurefunctions/releases/tag/v1.0.0) in [nomesqui2022/terraform-azurerm-azurefunctions](https://github.com/nomesqui2022/terraform-azurerm-azurefunctions)<br>
-2. ⬆️ Pushed undefined commit(s) to [nomesqui2022/terraform-azurerm-azurefunctions](https://github.com/nomesqui2022/terraform-azurerm-azurefunctions)<br>
+1. ⬆️ Pushed undefined commit(s) to [nomesqui2022/Terraform-CICD](https://github.com/nomesqui2022/Terraform-CICD)<br>
+2. ⬆️ Pushed undefined commit(s) to [nomesqui2022/Terraform-CICD](https://github.com/nomesqui2022/Terraform-CICD)<br>
+3. ✌️ Released [first version de prueba](https://github.com/nomesqui2022/terraform-azurerm-azurefunctions/releases/tag/v1.0.0) in [nomesqui2022/terraform-azurerm-azurefunctions](https://github.com/nomesqui2022/terraform-azurerm-azurefunctions)<br>
+4. ⬆️ Pushed undefined commit(s) to [nomesqui2022/terraform-azurerm-azurefunctions](https://github.com/nomesqui2022/terraform-azurerm-azurefunctions)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 10th, 2026, 1:58:46 AM
+Last Updated: Tuesday, March 10th, 2026, 12:59:40 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
